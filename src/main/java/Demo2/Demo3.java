@@ -6,6 +6,6 @@ public class Demo3 {
 	
 	{
 		// TODO Auto-generated method stub
-		System.err.println("hello");
+		System.err.println("hello");//remove line
 	}
 }
